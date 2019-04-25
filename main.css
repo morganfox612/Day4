@@ -7,17 +7,20 @@ body {
   margin-top: 0;
   color: #fff;
   margin-bottom: 3.5%;
+  text-transform: uppercase;
+  letter-spacing: 1.11%;
 }
 
 .logo {
- padding-top: 5%;
+ padding-top: 3%;
+ margin-bottom: 3%;
 }
 
 .register-form {
   border: 1px solid #333;
   padding: 3% 4% 3.5% 4%;
   width: 65%;
-  background: rgba(69, 69, 69, 0.66);
+  background: rgba(69, 69, 69, 0.45);
   margin: 0 auto;
 }
 
