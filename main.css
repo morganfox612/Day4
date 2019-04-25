@@ -6,6 +6,7 @@ body {
 .form-header {
   margin-top: 0;
   color: #fff;
+  margin-bottom: 3.5%;
 }
 
 .logo {
@@ -14,15 +15,20 @@ body {
 
 .register-form {
   border: 1px solid #333;
-  padding: 5% 5%;
-  width: 33%;
+  padding: 3% 4% 3.5% 4%;
+  width: 65%;
   background: rgba(69, 69, 69, 0.66);
+  margin: 0 auto;
+}
 
+.register-form input[type="text"] {
+  width: 50%;
+  padding: 1% 3% 1% 0.5%;
 }
 
 .homepage {
   text-align: center;
-  background-image:url('https://www.metallica.com/on/demandware.static/-/Sites-Metallica-Library/default/dwb6d5ba9e/images/homepage/home-hero.jpg');
+  background-image: url('https://static1.squarespace.com/static/560ee3ace4b006ccc1134da2/5b67bfd9575d1f9e8ad1ec77/5b67c3a80e2e72aae8af53c1/1533527528902/0145_LowRes-Selection_METALLICA-London-O2-22-10-2017_Photo-Ralph-Larmann_DSC01426.jpg');
   width: 100%;
   height: 100vh;
 }
@@ -33,5 +39,10 @@ body {
   border: 1px solid orange;
   text-transform: uppercase;
   font-weight: 600;
+  padding: 1% 2%;
+}
 
+.register-form input[type="submit"]:hover {
+cursor: pointer;
+background: red;
 }
