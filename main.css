@@ -16,6 +16,14 @@ body {
  margin-bottom: 3%;
 }
 
+.text {
+  color: #fff;
+  line-height: 1.4;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+}
+
 .register-form {
   border: 1px solid #333;
   padding: 3% 4% 3.5% 4%;
