@@ -42,6 +42,7 @@ body {
   background-image: url('https://static1.squarespace.com/static/560ee3ace4b006ccc1134da2/5b67bfd9575d1f9e8ad1ec77/5b67c3a80e2e72aae8af53c1/1533527528902/0145_LowRes-Selection_METALLICA-London-O2-22-10-2017_Photo-Ralph-Larmann_DSC01426.jpg');
   width: 100%;
   height: 100vh;
+  background-size: cover;
 }
 
 .register-form input[type="submit"] {
